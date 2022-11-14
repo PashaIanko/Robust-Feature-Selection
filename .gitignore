@@ -1,5 +1,6 @@
 Data/
 __pycache__/
+.ipynb_checkpoints/
 model.py
 path_manager.py
 sklearn_transformers.py
